@@ -1,0 +1,47 @@
+[    
+    {
+        "id": 1,
+        "images":  "https://i.ibb.co/T1yHHQC/preview.png",
+        "Name": "project-01",
+        "title": "P-Ticket",
+        "skills": ["HTML, CSS, tailwind, Bootstrap"],
+        "Details": ""
+    },
+    {
+        "id": 2,
+        "images":  "https://i.ibb.co/pnq6kPt/screencapture-camo-githubusercontent-2ef6fdf36270d37072640e8a5510ac3104267746546719984cddbf99e55741a.png",
+        "Name": "project-02",
+        "title": "Retro",
+        "skills": ["HTML, CSS, tailwind, Bootstrap"],
+        "Details": ""
+    },
+    {
+        "id": 3,
+        "images": "https://i.ibb.co/mRNRnB3/screencapture-camo-githubusercontent-59c05700f3a3f1d3174bb798709d1eb365e50c71dbd1f75884286909d626f78.png",
+        "Name": "project-03" ,
+        "title": "Bungie",
+        "skills": ["HTML, CSS, tailwind, Bootstrap"],
+        "Details": ""
+    },
+    {
+        "id": 4,
+        "images":  "https://i.ibb.co/zHphbkC/screencapture-camo-githubusercontent-359877b69782cdb239fde997ccb0ddb385a57f0dd8b6ebc7dc29890bdeed681.png",
+        "Name": "project-04",
+        "skills": ["HTML, CSS, tailwind, Bootstrap"],
+        "Details": ""
+    },
+    {
+        "id": 5,
+        "images":  "https://i.ibb.co/rmmYDvx/screencapture-freepik-premium-vector-nature-landing-page-premium-7660903-htm-2024-02-11-20-36-49.png",
+        "Name": "project-05",
+        "skills": ["HTML, CSS, tailwind, Bootstrap"],
+        "Details": ""
+    },
+    {
+        "id": 6,
+        "images":  "https://i.ibb.co/tzYp37q/screencapture-upwork-nx-create-profile-skills-2024-02-08-15-56-33.png",
+        "Name": "project-06",
+        "skills": ["HTML, CSS, tailwind, Bootstrap"],
+        "Details": ""
+    }
+]
